@@ -1,1 +1,1 @@
-LINK [HERE](/haks.user.js)
+LINK [HERE](./haks.user.js)
